@@ -164,7 +164,7 @@ li {
 .cta-box {
     background-color: var(--accent-color-blue);
     display: flex;
-    padding: 2em;
+    padding: 2em 4em;
     border-radius: 8px;
 }
 
@@ -179,7 +179,7 @@ li {
     flex: 1;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end;
 }
 
 .cta-box h3,
